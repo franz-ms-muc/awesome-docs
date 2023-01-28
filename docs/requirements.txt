@@ -2,3 +2,4 @@ myst_parser
 linkify
 rtd
 sphinx_design
+sphinxext
