@@ -4,3 +4,4 @@ linkify
 rtd
 sphinx_design
 sphinx-rtd-theme
+sphinxext.rediraffe
