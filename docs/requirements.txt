@@ -1,2 +1,2 @@
 linkify
-linkify-it
+rtd
