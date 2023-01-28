@@ -3,3 +3,4 @@ sphinx
 linkify
 rtd
 sphinx_design
+sphinx.ext.autodoc
