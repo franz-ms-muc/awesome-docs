@@ -2,8 +2,6 @@ linkify
 rtd
 myst_parser
 sphinx
-sphinx.ext.intersphinx
-sphinx.ext.viewcode
 sphinx_design
 sphinxext.rediraffe
 sphinxcontrib.mermaid
