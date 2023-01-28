@@ -1,2 +1,0 @@
-linkify
-linkify-it
