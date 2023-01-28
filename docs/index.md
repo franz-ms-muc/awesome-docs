@@ -69,6 +69,10 @@ Und so lebten die Elfen in Frieden und Glückseligkeit, dank des tapferen Helden
 
 [lustig.md#nichtlustig](lustig.md#nichtlustig)
 
+[lustig#nichtlustig](lustig#nichtlustig)
+
+[lustig/nichtlustig](lustig/nichtlustig)
+
 <https://franz-awesome-docs.readthedocs.io/>
 
 
