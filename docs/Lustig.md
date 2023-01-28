@@ -6,7 +6,7 @@ xy
 
 Ein Pferd geht in eine Bar und bestellt ein Bier. Der Barmann schaut ihn verwundert an und sagt: "Entschuldigung, aber Pferde können nicht sprechen." Das Pferd antwortet: "Oh, Entschuldigung, ich wollte eigentlich nur mein Handy aufladen."
 
-# nichtlustig
+# nicht-lustig
 
 In einer kleinen Stadt gab es eine Fabrik, die für die schlechten Arbeitsbedingungen und den schlechten Lohn ihrer Angestellten bekannt war. Die Arbeiter arbeiteten oft lange Stunden ohne Pause und die Fabrik war überfüllt und unordentlich. Es gab keine Sicherheitsmaßnahmen und viele Arbeiter wurden verletzt.
 
