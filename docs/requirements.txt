@@ -3,6 +3,7 @@ rtd
 myst_parser
 sphinx
 sphinx_design
+sphinx-ext-autodoc
 sphinxext.rediraffe
 sphinxcontrib.mermaid
 sphinxext.opengraph
