@@ -2,11 +2,7 @@ linkify
 rtd
 myst_parser
 sphinx
-sphinx-ext-autodoc
-sphinx-ext-intersphinx
-sphinx-ext-viewcode
 sphinx_design
-
 sphinxext.rediraffe
 sphinxcontrib.mermaid
 sphinxext.opengraph
