@@ -15,6 +15,8 @@ author = "Franz Höpfinger"
 
 extensions = ["myst_parser"]
 
+version = "0.0.1"
+release = version
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
