@@ -1,5 +1,5 @@
 myst_parser
+sphinx
 linkify
 rtd
 sphinx_design
-sphinxext
