@@ -67,11 +67,11 @@ Und so lebten die Elfen in Frieden und Glückseligkeit, dank des tapferen Helden
 [#xy](#xy)
 
 
-[lustig.md#nichtlustig](lustig.md#nichtlustig)
+[Lustig.md#nichtlustig](Lustig.md#nichtlustig)
 
-[lustig#nichtlustig](lustig#nichtlustig)
+[Lustig#nichtlustig](Lustig#nichtlustig)
 
-[lustig/nichtlustig](lustig/nichtlustig)
+[Lustig/nichtlustig](Lustig/nichtlustig)
 
 [Lustig.html#nichtlustig](Lustig.html#nichtlustig)
 
