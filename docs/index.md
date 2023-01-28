@@ -16,6 +16,17 @@
 *   {ref}`modindex`
 *   {ref}`search`
 
+
+## Contents
+
+```{toctree}
+:numbered: true
+
+Home <self>
+Lustig
+```
+
+
 # heading
 # heading 1
 ## heading 2
