@@ -39,20 +39,20 @@ Es war ein harter Kampf, aber die Arbeiter erkannten, dass sie durch Solidaritä
 
 [Lustig.md#nicht-lustig2](Lustig.md#nicht-lustig2)
 
-[Lustig.md#Lustig](Lustig.md#Lustig)
+[Lustig.md#lustig](Lustig.md#lustig)
 
-[Lustig.md#Lustig2](Lustig.md#Lustig2)
+[Lustig.md#lustig2](Lustig.md#lustig2)
 
-[Lustig.md#Lustig3](Lustig.md#Lustig3)
+[Lustig.md#lustig3](Lustig.md#lustig3)
 
 
 [#nicht-lustig](#nicht-lustig)
 
 [#nicht-lustig2](#nicht-lustig2)
 
-[#Lustig](#Lustig)
+[#lustig](#lustig)
 
-[#Lustig2](#Lustig2)
+[#lustig2](#lustig2)
 
-[#Lustig3](#Lustig3)
+[#lustig3](#lustig3)
 
