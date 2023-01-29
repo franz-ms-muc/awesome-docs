@@ -20,6 +20,12 @@ release = version
 templates_path = ["_templates"]
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
+
+# -- MyST settings ---------------------------------------------------
+
+myst_enable_extensions = [
+    "colon_fence",
+]
 myst_heading_anchors = 7
 
 
