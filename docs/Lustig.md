@@ -30,8 +30,6 @@ Es war ein harter Kampf, aber die Arbeiter erkannten, dass sie durch Solidaritä
 [index.md#heading](index.md#heading)
 
 
-<index.md#heading>
-
 [index.md#xy](index.md#xy)
 
 
