@@ -5,6 +5,10 @@
 
 # Welcome to franz-awesome-docs's documentation!
 
+```
+:caption: 'Contents:'
+:maxdepth: 7
+```
 
 # Indices and tables
 
@@ -15,8 +19,6 @@
 ## Contents
 
 ```
-:caption: 'Contents:'
-:maxdepth: 7
 :numbered: true
 
 Home <self>
