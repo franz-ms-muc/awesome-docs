@@ -1,3 +1,6 @@
+
+# Lustig3
+
 # Lustig
 
 ....
@@ -6,7 +9,13 @@ xy
 
 Ein Pferd geht in eine Bar und bestellt ein Bier. Der Barmann schaut ihn verwundert an und sagt: "Entschuldigung, aber Pferde können nicht sprechen." Das Pferd antwortet: "Oh, Entschuldigung, ich wollte eigentlich nur mein Handy aufladen."
 
+
+# Lustig2
+
+
 # nicht-lustig
+
+## nicht-lustig2
 
 In einer kleinen Stadt gab es eine Fabrik, die für die schlechten Arbeitsbedingungen und den schlechten Lohn ihrer Angestellten bekannt war. Die Arbeiter arbeiteten oft lange Stunden ohne Pause und die Fabrik war überfüllt und unordentlich. Es gab keine Sicherheitsmaßnahmen und viele Arbeiter wurden verletzt.
 
@@ -22,4 +31,11 @@ Es war ein harter Kampf, aber die Arbeiter erkannten, dass sie durch Solidaritä
 
 [Lustig.md#nichtlustig](Lustig.md#nicht-lustig)
 
+[Lustig.md#nichtlustig](Lustig.md#nicht-lustig2)
+
 [Lustig.md#Lustig](Lustig.md#Lustig)
+
+[Lustig.md#Lustig2](Lustig.md#Lustig2)
+
+[Lustig.md#Lustig3](Lustig.md#Lustig3)
+
