@@ -16,10 +16,9 @@
 *   {ref}`modindex`
 *   {ref}`search`
 
-
 ## Contents
 
-```{toctree}
+```
 :numbered: true
 
 Home <self>
@@ -27,7 +26,6 @@ Lustig
 ```
 
 # xy
-
 
 In einer fernen Welt, jenseits der Grenzen unserer Vorstellungskraft, lebte ein Volk von Elfen. Diese Elfen waren berühmt für ihre Schönheit und ihre magischen Fähigkeiten. Sie lebten in einem Reich von unendlicher Schönheit, umgeben von majestätischen Bergen und tiefen Wäldern.
 
@@ -43,29 +41,23 @@ Die Elfen feierten ihren Sieg und dankten dem jungen Krieger für seine Tapferke
 
 Und so lebten die Elfen in Frieden und Glückseligkeit, dank des tapferen Helden, der gekommen war, um sie zu retten.
 
-
-
 # heading
-# heading 1
-## heading 2
-### heading 3
-#### heading 4
-##### heading 5
-###### heading 6
-####### heading 7
-######## heading 8
-######### heading 9
-########## heading 10
-########### heading 11
-############ heading 12
-############# heading 13
-############## heading 14
 
+# heading 1
+
+## heading 2
+
+### heading 3
+
+#### heading 4
+
+##### heading 5
+
+###### heading 6
 
 [#heading](#heading)
 
 [#xy](#xy)
-
 
 [index.md#heading](index.md#heading)
 
@@ -81,8 +73,4 @@ Und so lebten die Elfen in Frieden und Glückseligkeit, dank des tapferen Helden
 
 [Lustig.md#lustig3](Lustig.md#lustig3)
 
-
-<https://franz-awesome-docs.readthedocs.io/>
-
-
-
+\<https://franz-awesome-docs.readthedocs.io/\>
