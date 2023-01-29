@@ -29,12 +29,15 @@ Es war ein harter Kampf, aber die Arbeiter erkannten, dass sie durch Solidaritä
 
 [index.md#heading](index.md#heading)
 
+
+<index.md#heading>
+
 [index.md#xy](index.md#xy)
 
 
-[Lustig.md#nichtlustig](Lustig.md#nicht-lustig)
+[Lustig.md#nich-tlustig](Lustig.md#nicht-lustig)
 
-[Lustig.md#nichtlustig](Lustig.md#nicht-lustig2)
+[Lustig.md#nicht-lustig2](Lustig.md#nicht-lustig2)
 
 [Lustig.md#Lustig](Lustig.md#Lustig)
 
@@ -43,9 +46,9 @@ Es war ein harter Kampf, aber die Arbeiter erkannten, dass sie durch Solidaritä
 [Lustig.md#Lustig3](Lustig.md#Lustig3)
 
 
-[#nichtlustig](#nicht-lustig)
+[#nicht-lustig](#nicht-lustig)
 
-[#nichtlustig](#nicht-lustig2)
+[#nicht-lustig2](#nicht-lustig2)
 
 [#Lustig](#Lustig)
 
