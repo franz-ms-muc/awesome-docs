@@ -4,6 +4,16 @@
 
 ....
 
+
+:::{tip}
+If you'd like to automatically generate targets for each of your section headers, check out the section of extended syntaxes.
+:::
+
+:::{note}
+This project is under active development.
+:::
+
+
 xy
 
 Ein Pferd geht in eine Bar und bestellt ein Bier. Der Barmann schaut ihn verwundert an und sagt: "Entschuldigung, aber Pferde können nicht sprechen." Das Pferd antwortet: "Oh, Entschuldigung, ich wollte eigentlich nur mein Handy aufladen."
