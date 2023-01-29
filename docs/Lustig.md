@@ -1,4 +1,3 @@
-
 # Lustig3
 
 # Lustig
@@ -9,9 +8,7 @@ xy
 
 Ein Pferd geht in eine Bar und bestellt ein Bier. Der Barmann schaut ihn verwundert an und sagt: "Entschuldigung, aber Pferde können nicht sprechen." Das Pferd antwortet: "Oh, Entschuldigung, ich wollte eigentlich nur mein Handy aufladen."
 
-
 # Lustig2
-
 
 # nicht-lustig
 
@@ -29,9 +26,7 @@ Es war ein harter Kampf, aber die Arbeiter erkannten, dass sie durch Solidaritä
 
 [index.md#heading](index.md#heading)
 
-
 [index.md#xy](index.md#xy)
-
 
 [Lustig.md#nich-tlustig](Lustig.md#nicht-lustig)
 
@@ -43,7 +38,6 @@ Es war ein harter Kampf, aber die Arbeiter erkannten, dass sie durch Solidaritä
 
 [Lustig.md#lustig3](Lustig.md#lustig3)
 
-
 [#nicht-lustig](#nicht-lustig)
 
 [#nicht-lustig2](#nicht-lustig2)
@@ -53,4 +47,3 @@ Es war ein harter Kampf, aber die Arbeiter erkannten, dass sie durch Solidaritä
 [#lustig2](#lustig2)
 
 [#lustig3](#lustig3)
-
