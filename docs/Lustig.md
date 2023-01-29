@@ -63,4 +63,3 @@ Es war ein harter Kampf, aber die Arbeiter erkannten, dass sie durch Solidaritä
 
 ###### L-heading 6
 
-####### L-heading 7
