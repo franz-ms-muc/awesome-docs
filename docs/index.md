@@ -5,10 +5,6 @@
 
 # Welcome to franz-awesome-docs's documentation!
 
-```
-:caption: 'Contents:'
-:maxdepth: 7
-```
 
 # Indices and tables
 
@@ -18,7 +14,9 @@
 
 ## Contents
 
-```
+```{toctree}
+:caption: 'Contents:'
+:maxdepth: 7
 :numbered: true
 
 Home <self>
