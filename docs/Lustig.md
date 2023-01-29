@@ -18,7 +18,6 @@ Die Arbeiter blieben jedoch standhaft und der Streik dauerte Wochen. Schließlic
 
 Es war ein harter Kampf, aber die Arbeiter erkannten, dass sie durch Solidarität und Zusammenhalt ihre Rechte durchsetzen konnten.
 
-[#nichtlustig](#nichtlustig)
-[#Lustig](#Lustig)
+[Lustig.md#nichtlustig](Lustig.md#nichtlustig)  
+[Lustig.md#Lustig](Lustig.md#Lustig)
 
-[xy](xy)
